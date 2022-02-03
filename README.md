@@ -33,9 +33,9 @@ spaghetti.  In addition to that, the entire program is simply a set of
 steps laid out in a natural linear fashion, which all take place
 inside the WinMain() function.
 
-![screenshot](https://github.com/tellela/d3d12/blob/master/hello.png)
+[See it in motion.](https://youtu.be/nCEFEBWzfzo)
 
-[You can also see it in motion.](https://youtu.be/nCEFEBWzfzo)
+![screenshot](https://github.com/tellela/d3d12/blob/master/hello.png)
 
 
 
